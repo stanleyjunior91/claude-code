@@ -1,0 +1,1400 @@
+# Conteúdo programático do PSCPP (Anexo 2-A da NORMAM-311/DPC)
+
+Transcrição organizada do Anexo 2-A, "Conteúdo Programático para o Processo Seletivo à Categoria de Praticante de Prático", na revisão divulgada pela DPC em 23/04/2026. A numeração é a do documento original, inclusive os saltos (por exemplo, a Parte II não tem os itens 7, 9 e 13). O edital de cada processo seletivo define o conteúdo oficial; este anexo é a referência básica.
+
+Para achar um tema, procure com grep pelo termo (ex.: `squat`, `Nomoto`, `MPX`, `COLREG`) ou pela parte:
+
+- Parte I – Manobrabilidade do navio
+- Parte II – Arte naval
+- Parte III – Navegação em águas restritas
+- Parte IV – Legislação e regulamentação
+- Parte V – Meteorologia e oceanografia
+- Parte VI – Comunicações
+- Parte VII – Conhecimentos gerais
+
+## I – MANOBRABILIDADE DO NAVIO (SHIP MANOEUVERABILITY)
+
+- 1. Resistência do Navio
+  - 1.1. Resistência friccional
+  - 1.2. Resistência às ondas
+  - 1.3. Resistências relativas às perturbações nas linhas de corrente devido à forma do casco e seus apêndices
+  - 1.4. A resistência devido ao fenômeno “wave-breaking”
+  - 1.5. A resistência ao ar e ao vento
+  - 1.6. A resistência adicional devido às ondas
+  - 1.7. Os efeitos da variação de calado na resistência do navio
+  - 1.8. Efeitos de águas rasas nas resistências do navio
+- 2. Propulsão do Navio e Propulsores
+  - 2.1. Definição de propulsão
+  - 2.2. Teoria da propulsão
+  - 2.3. Interação entre o casco e o propulsor
+  - 2.4. Geometria da hélice
+  - 2.5. Cavitação
+  - 2.6. Tipos de propulsores
+  - 2.7. A ação de um propulsor parcialmente submerso
+- 3. Superfícies de Controle (lemes)
+  - 3.1. Geometria do leme
+  - 3.2. Princípio de sustentação e arrasto: forças e momentos do leme
+  - 3.3. Princípios do escoamento em torno do leme do navio
+  - 3.4. Influências da razão de aspecto do leme
+  - 3.5. Diferenças de atuação entre um leme de estrutura fixa e um do tipo “flap”
+  - 3.6. Influências da forma do casco na ação do leme
+- 4. Controlabilidade do Navio
+  - 4.1. Estabilidade de governo
+  - 4.2. Manobras-padrão
+  - 4.3. Estabilidade e controle do navio
+  - 4.4. Análise da habilidade de governo de uma embarcação
+  - 4.5. Acelerações para vante e para ré em um navio
+  - 4.6. Parar o navio
+  - 4.7. Distâncias e relações entre tempos e velocidades para se parar um navio
+  - 4.8. Parar o navio com liberdade para guinar
+  - 4.9. A manobra de “rudder cycling”
+  - 4.10. Efeitos e características da máquina e sua dinâmica na guinada
+  - 4.11. A manobra de “coasting”
+  - 4.12. Equipamentos auxiliares para se parar um navio
+  - 4.13. Efeitos do meio ambiente:
+    - 4.13.1. Ventos
+    - 4.13.2. Correntes
+    - 4.13.3. Ondas
+    - 4.13.4. Estabilidade e controle de governo com os efeitos do meio ambiente
+    - 4.13.5. Interação do navio com:
+      - 4.13.5.1. Águas rasas
+      - 4.13.5.2. Bancos
+      - 4.13.5.3. Canais estreitos
+      - 4.13.5.4. Outros navios
+- 5. Resistências do Navio e Métodos para sua Obtenção
+  - 5.1. Métodos para sua obtenção
+    - 5.1.1. Testes com modelos físicos
+    - 5.1.2. Métodos empíricos
+    - 5.1.3. Emprego de modelos numéricos
+  - 5.2. Escoamento em torno do casco do navio
+    - 5.2.1. A lei de conservação de massa
+    - 5.2.2. A lei de conservação da quantidade de movimento
+    - 5.2.3. Forças hidrodinâmicas e forças de pressão hidrostáticas
+  - 5.3. Similaridade física
+    - 5.3.1. Similaridades geométrica, cinemática e dinâmica
+    - 5.3.2. Números de Reynolds, Froude, Weber, Euler e de cavitação
+    - 5.3.3. Teste com modelos
+  - 5.4. Tipos de Resistência em mar calmo, sem vento, sem ondas e em águas profundas
+  - 5.5. Escoamento invíscido ao redor do casco, formação de ondas e resistência de ondas
+    - 5.5.1. Influência da viscosidade no padrão de ondas irradiado pelo navio
+    - 5.5.2. Efeitos de águas rasas
+    - 5.5.3. Efeito das ondas irradiadas
+    - 5.5.4. Efeito dos canais
+  - 5.6. Escoamento em torno do casco do navio e a resistência friccional/viscosa
+    - 5.6.1. A camada limite
+    - 5.6.2. A permissividade para a rugosidade
+    - 5.6.3. A redução da força de arrasto
+  - 5.7. Formas de resistência
+    - 5.7.1. Resistência devido ao arrasto induzido e a teoria de asas
+    - 5.7.2. Resistência devido aos apêndices com diferentes perfis
+    - 5.7.3. Resistência devido ao ar e ao vento
+    - 5.7.4. Resistência devido às ondas do mar
+  - 5.8. Previsão experimental da resistência do navio
+    - 5.8.1. Instalações para os testes
+    - 5.8.2. Testes com modelos
+  - 5.9. Previsão da potência efetiva
+    - 5.9.1. Método de Froude
+    - 5.9.2. Método ITTC-78
+    - 5.9.3. Determinação do fator de forma
+- 6. Propulsão do Navio e Propulsores
+  - 6.1. Definições, Parâmetros e Geometria do Propulsor tipo Hélice
+  - 6.2. Teoria da propulsão
+  - 6.3. Cavitação
+  - 6.4. Abordagem experimental
+  - 6.5. Pressões induzidas pelo propulsor e a indução de vibrações e ruídos
+  - 6.6. Tipos de propulsores
+  - 6.7. Interação entre o Casco e o Propulsor
+    - 6.7.1. A resistência adicional presenciada pelo casco
+    - 6.7.2. O coeficiente de dedução da força propulsiva e o coeficiente de esteira
+    - 6.7.3. A esteira potencial, a esteira friccional e a onda de esteira
+    - 6.7.4. O coeficiente de eficiência do casco
+    - 6.7.5. Os vários tipos de potência e suas relações
+- 7. Superfícies de Controle (lemes)
+  - 7.1. Geometria do leme
+  - 7.2. Efetividade do leme
+  - 7.3. Princípios de sustentação e arrasto
+  - 7.4. Forças hidrodinâmicas e momentos no leme
+  - 7.5. Ângulo de estolamento do leme
+  - 7.6. Tipos de leme
+  - 7.7. Interação entre o leme e o propulsor
+  - 7.8. Interação entre o leme e o casco do navio
+  - 7.9. Diferenças entre leme de estrutura fixa e do tipo “FLAP”
+  - 7.10. Cavitação no leme
+  - 7.11. O projeto do leme para atender os critérios de manobrabilidade do navio
+- 8. Controlabilidade do Navio
+  - 8.1. O Conceito IMO de Manobrabilidade do Navio
+    - 8.1.1. Características de Manobrabilidades do Navio
+    - 8.1.2. Testes/Provas de mar recomendados para aferir o Padrão de manobrabilidade
+    - 8.1.3. Diretrizes para a aplicação dos testes
+    - 8.1.4. Diretrizes para a previsão de manobras
+    - 8.1.5. Sistema de coordenadas referenciais e padrão de nomenclaturas recomendadas
+    - 8.1.6. Visão geral sobre a previsão do desempenho de manobra dos navios
+    - 8.1.7. Habilidade de parada de grandes navios
+    - 8.1.8. Manobras adicionais
+  - 8.2. Padrões de projeto IMO para a Manobrabilidade do navio
+    - 8.2.1. Aplicação
+    - 8.2.2. Definições para os testes
+      - 8.2.2.1. Geometria do navio
+      - 8.2.2.2. Terminologia associada às manobras padrão
+    - 8.2.3. Condições ambientais para os testes
+    - 8.2.4. Critérios de Manobrabilidade do navio
+    - 8.2.5. Considerações adicionais
+  - 8.3. O movimento do navio em seis graus de liberdade
+  - 8.4. Forças de inércia do Navio
+    - 8.4.1. Forças e momentos observados no centro de gravidade do navio (CG)
+    - 8.4.2. Forças e momentos observados fora do CG
+  - 8.5. Forças Hidrodinâmicas
+    - 8.5.1. A teoria de asas aplicada a hidrodinâmica do casco do navio
+      - 8.5.1.1. A força de arrasto do casco do navio
+      - 8.5.1.2. A força de sustentação do casco do navio
+      - 8.5.1.3. O momento de Munk
+      - 8.5.1.4. O arrasto induzido e o princípio do arrasto cruzado
+      - 8.5.1.5. O flape do casco do navio
+    - 8.5.2. Forças que atuam no navio durante a guinada e o efeito do controle do leme
+    - 8.5.3. Derivadas hidrodinâmicas
+      - 8.5.3.1. Conceito
+      - 8.5.3.2. Significado físico
+        - 8.5.3.2.1. Massa adicional longitudinal e termos de resistência
+        - 8.5.3.2.2. Massa adicional lateral, inércia adicional acoplada e componentes da teoria de asas
+        - 8.5.3.2.3. Momento de inércia adicional, momento de inércia adicional acoplado e componentes da teoria de asas
+    - 8.5.4. O conceito de escoamento cruzado na manobra do navio
+    - 8.5.5. O emprego das derivadas hidrodinâmicas na avaliação da manobra do navio
+  - 8.6. A Estabilidade de movimento do navio
+    - 8.6.1. O conceito de estabilidade
+    - 8.6.2. Os tipos de estabilidade de movimento de navios
+    - 8.6.3. A hierarquia da estabilidade de movimento do navio
+    - 8.6.4. A estabilidade em linha reta de um navio e as derivadas hidrodinâmicas
+    - 8.6.5. A intensidade e o tipo de estabilidade em linha reta do navio
+    - 8.6.6. Condições necessárias e suficientes para o casco do navio ser estável
+    - 8.6.7. Os componentes de estabilização e de desestabilização das derivadas hidrodinâmicas
+    - 8.6.8. A estabilidade dinâmica e as condições operacionais do navio
+      - 8.6.8.1. Influência da razão de esbeltez, da inclusão de skegs e variação de trim do navio
+    - 8.6.9. A curva espiral direta ou curva de Dieudonné
+      - 8.6.9.1. Procedimentos para execução da curva espiral direta
+    - 8.6.10. A curva espiral de Bech ou espiral reversa
+    - 8.6.11. A manobra de pull-out
+    - 8.6.12. Padrões de manobrabilidade da IMO para curva espiral
+    - 8.6.13. Curva espiral simplificada da IMO
+  - 8.7. Análise da habilidade de controle e governo de um navio
+    - 8.7.1. Definições associadas à governabilidade e controle do navio
+    - 8.7.2. O controle do movimento do navio
+    - 8.7.3. A curva de zigue-zague
+    - 8.7.4. Principais medidas numéricas de controle obtidas na manobra de zigue-zague
+    - 8.7.5. Os índices de Nomoto
+    - 8.7.6. O movimento lateral (sway) do navio e a posição do ponto pivô
+    - 8.7.7. O modelo K-T de Nomoto
+    - 8.7.8. Interpretação física dos índices da equação de Nomoto simplificada
+    - 8.7.9. O conceito de um navio com boa manobrabilidade
+  - 8.8. A habilidade do navio para executar curvas
+    - 8.8.1. Definições associadas à manobrabilidade do navio ao executar um giro
+    - 8.8.2. O ponto pivô
+    - 8.8.3. As três fases do giro
+    - 8.8.4. O raio de giro na teoria linear
+    - 8.8.5. Efeito da variação das derivadas hidrodinâmicas no raio de giro para navios estáveis
+    - 8.8.6. O adernamento lateral de um navio em um giro
+    - 8.8.7. O ângulo de adernamento do navio quando em curvas de acordo com a PIANC
+    - 8.8.8. Parâmetros médios e máximos da ROM da curva de giro para petroleiros e graneleiros
+    - 8.8.9. A influência da redução da velocidade no diâmetro tático
+  - 8.9. Critérios IMO para a curva de giro
+    - 8.9.1. Habilidade para parar, alterar velocidades e mover a ré
+    - 8.9.2. Definições IMO
+    - 8.9.3. Avaliação dos índices de desempenho de parada de navios
+    - 8.9.4. Fatores importantes a considerar durante as manobras que envolvem mudança de velocidade do navio
+    - 8.9.5. Métodos empíricos para obtenção de distância e tempo de parada de navios
+      - 8.9.5.1. Método ROM para obtenção de distâncias de parada
+      - 8.9.5.2. Método PIANC para obtenção das distâncias de parada
+    - 8.9.6. A manobra de parada sem emprego de empuxo a ré (coasting)
+  - 8.10. A ação de forças ambientais ventos e correntes
+    - 8.10.1. Ventos
+      - 8.10.1.1. A velocidade do ar e a velocidade do vento
+      - 8.10.1.2. A força do vento
+        - 8.10.1.2.1. Os coeficientes da força do vento para navios-petroleiros
+          - 8.10.1.2.1.1. Exemplo de como calcular a força do vento
+        - 8.10.1.2.2. Os coeficientes da força do vento para navios-gaseiros
+        - 8.10.1.2.3. Os coeficientes da força de vento de Blendermann
+        - 8.10.1.2.4. O efeito da rajada do vento na manobra de atracação/desatracação
+        - 8.10.1.2.5. A técnica PIANC de caranguejar com o vento
+        - 8.10.1.2.6. Recomendações práticas em relação à força do vento
+    - 8.10.2. Correntes
+      - 8.10.2.1. A força da corrente
+        - 8.10.2.1.1. Os coeficientes da força de corrente para navios-petroleiros
+        - 8.10.2.1.2. Calcular a intensidade da corrente
+  - 8.11. Efeitos de águas rasas
+    - 8.11.1. Classificação de águas rasas
+    - 8.11.2. Sinais presenciados a bordo indicativos de que o navio está em águas rasas
+    - 8.11.3. A avaliação do desempenho em águas rasas do navio Esso Osaka
+    - 8.11.4. O comportamento de diferentes navios em águas rasas
+    - 8.11.5. As Forças Hidrodinâmicas da asa-casco do navio em águas rasas
+    - 8.11.6. O aumento do efeito squat em águas rasas
+      - 8.11.6.1. Métodos de estima do squat somente em águas rasas
+    - 8.11.7. A manobra do navio em águas rasas com presença de lama fluida
+  - 8.12. Efeitos de águas restritas ou confinadas e interações
+    - 8.12.1. Definições e conceitos para águas restritas
+    - 8.12.2. Os efeitos de banco
+      - 8.12.2.1. O controle do rumo do navio nas proximidades de um banco
+      - 8.12.2.2. O movimento do navio ao se aproximar de um banco submerso
+    - 8.12.3. Efeitos de canal
+      - 8.12.3.1. A avaliação de largura/profundidade de um canal em função da manobrabilidade do navio
+      - 8.12.3.2. Os limites de segurança de navegação de um navio em um canal
+      - 8.12.3.3. Efeitos entre bancos e canais, ambos com larguras variáveis
+      - 8.12.3.4. O efeito de canais curvos
+    - 8.12.4. O efeito squat em canais
+    - 8.12.5. Efeitos de interação entre navios
+      - 8.12.5.1. Efeito de interação quando da passagem por um navio atracado
+      - 8.12.5.2. Efeitos da interação quando da ultrapassagem entre navios
+        - 8.12.5.2.1. Efeitos da geometria do canal e da distância de separação durante a ultrapassagem de navios
+        - 8.12.5.2.2. Efeitos da geometria do canal e da profundidade durante a ultrapassagem de navios
+        - 8.12.5.2.3. Efeitos da geometria do canal e do comprimento dos navios durante a ultrapassagem de navios
+        - 8.12.5.2.4. Os efeitos da geometria do canal e da velocidade dos navios durante a ultrapassagem
+      - 8.12.5.3. Efeitos de interação quando do cruzamento de navios
+  - 8.13. Manobras especiais
+    - 8.13.1. Manobra de avaliação de manutenção de rumo
+    - 8.13.2. Manobra teste de inércia de parada do navio
+    - 8.13.3. A manobra teste de rumos paralelos
+    - 8.13.4. Manobra teste da habilidade inicial para guinar
+    - 8.13.5. Manobra de zigue-zague em baixa velocidade
+    - 8.13.6. Manobra de zigue-zague muito pequena
+    - 8.13.7. Manobra de giro acelerando a partir do zero
+    - 8.13.8. Manobra de aceleração/desaceleração
+    - 8.13.9. Manobra teste com impelidor(es) (bowthruster(s))
+    - 8.13.10. Manobra teste de RPM mínima
+    - 8.13.11. Manobra teste de parada com seguimento a ré
+    - 8.13.12. Manobra de resgate de homem ao mar
+    - 8.13.13. A manobra de giro elíptica
+    - 8.13.14. Manobra cíclica do leme (rudder cycling)
+    - 8.13.15. A manobra de back and filling
+    - 8.13.16. A manobra em Y
+  - 8.14. Ação das forças de ondas e o movimento do navio
+    - 8.14.1. O mar regular – conceito e definições
+      - 8.14.1.1. O conceito de mar regular
+      - 8.14.1.2. Período e frequência de encontro
+      - 8.14.1.3. A definição de mar vindo de vante, mar vindo de ré e mar pelo través
+      - 8.14.1.4. Análise da frequência de encontro
+      - 8.14.1.5. Tipos de movimentos do navio em função da frequência de movimento
+        - 8.14.1.5.1. Oscilatório
+        - 8.14.1.5.2. Deriva média
+        - 8.14.1.5.3. Deriva lenta
+      - 8.14.1.6. Movimento do navio em único grau de liberdade em mar regular
+        - 8.14.1.6.1. A análise do movimento oscilatório do navio em heave
+        - 8.14.1.6.2. Oscilação livre
+        - 8.14.1.6.3. Oscilação livre com amortecimento
+        - 8.14.1.6.4. Oscilação forçada
+        - 8.14.1.6.5. A função Operador Amplitude de Resposta (RAO) do Navio
+      - 8.14.1.7. As forças de excitação devidas às ondas
+        - 8.14.1.7.1. A força de Froude-Krylov
+        - 8.14.1.7.2. A força de difração de ondas
+        - 8.14.1.7.3. A força de radiação de ondas
+        - 8.14.1.7.4. A força de restauração
+  - 8.15. O mar irregular e o mar confuso – o movimento do navio
+    - 8.15.1. Conceito e definições
+    - 8.15.2. Análise do sinal das amplitudes do mar
+    - 8.15.3. A descrição do mar irregular a partir do somatório de ondas regulares
+    - 8.15.4. As alturas das ondas do mar
+      - 8.15.4.1. Altura média
+      - 8.15.4.2. Altura significativa
+    - 8.15.5. O espectro do mar
+      - 8.15.5.1. A determinação da altura significativa
+    - 8.15.6. Emprego do espectro de resposta do navio e os RAOs
+  - 8.16. O abatimento do navio devido às forças de segunda ordem
+    - 8.16.1. Definição de forças de deriva ou forças de segunda ordem
+    - 8.16.2. Aplicações práticas do conceito de força de deriva média em embarcações
+  - 8.17. O mar adverso, definição IMO
+    - 8.17.1. Fenômenos perigosos
+    - 8.17.2. A perda de estabilidade intacta do navio quando em mar adverso
+    - 8.17.3. O efeito de surfar com a onda e o o broaching
+    - 8.17.4. Movimento síncrono ou de ressonância em roll
+    - 8.17.5. Movimentos em roll paramétrico
+    - 8.17.6. Combinação de vários fenômenos perigosos
+    - 8.17.7. Diretrizes para evitar o surfar com as ondas e o possível broaching
+    - 8.17.8. Diretrizes para evitar o ataque de ondas de grande dimensão
+  - 8.18. Documentos de manobrabilidade existentes a bordo dos navios
+    - 8.18.1. Pilot Card
+    - 8.18.2. Wheelhouse poster
+    - 8.18.3. Manoeuvring booklet
+
+## II – ARTE NAVAL
+
+- 1. Governo dos navios de um ou mais hélices e um ou dois lemes
+- 2. Manobras de atracação e desatracação
+- 3. Manobras de fundear, suspender, amarrar, rocegar, amarrar à boia e largar da boia
+- 4. Emprego de rebocadores na manobrabilidade
+- 5. Troca de atracadouro (manobra de cabeços), considerando as correntes locais
+- 6. Reboque
+- 8. Classificação dos navios
+- 10. Trabalhos marinheiros
+- 11. Amarração
+- 12. Poleame, aparelhos de laborar e acessórios
+- 14. Aparelho de fundear e suspender
+- 15. Estabilidade, arqueação e deslocamento
+- 16. Nomenclatura e geometria do navio
+  - 16.1. Nomenclatura geral do navio
+  - 16.2. Itens principais da estrutura dos cascos metálicos
+  - 16.3. Convés, cobertas, plataformas e espaços entre os conveses
+  - 16.4. Subdivisão do Casco
+  - 16.5. Geometria geral do navio
+  - 16.6. Desenho de linhas e plano de formas
+  - 16.7. Dimensões lineares
+  - 16.8. Deslocamento e tonelagem
+- 17. Regulamentações IMO
+  - 17.1. Obrigatoriedade SOLAS (Regra V/23.3.3) da certificação dos arranjos para a transferências de práticos em navios-petroleiros
+  - 17.2. Diretriz para interpretação uniforme da Regra V/23.3.3 do SOLAS
+  - 17.3. Recomendações sobre arranjos para a transferência dos práticos
+  - 17.4. Emendas nas recomendações para a transferência de Práticos
+  - 17.5. Quadro ilustrativo sobre os arranjos para a transferência do prático
+- 18. Procedimentos para embarque/desembarque do Prático
+  - 18.1. Deficiências significativas que levam a acidentes durante a transferência do Prático
+    - 18.1.1. Dados estatísticos sobre a causa dos acidentes
+  - 18.2. Riscos envolvidos durante o processo de transferência
+  - 18.3. Procedimentos seguros para o embarque e desembarque
+  - 18.4. Outros métodos de Transferências de Práticos
+    - 18.4.1. Helicópteros
+    - 18.4.2. O sistema de plataforma de embarque
+    - 18.4.3. Métodos inovadores na tentativa de desenvolver um mecanismo de embarque à prova de falhas
+  - 18.5. Necessidade de um casco adicional de segurança: sistemas mecânicos de proteção contra quedas
+- 19. Troca de informações entre o Prático e o Comandante do Navio
+  - 19.1. Troca de informações e preparativos pré-embarque
+  - 19.2. Informações do Comandante do Navio para o Prático
+  - 19.3. Informações do Prático para o Comandante do Navio
+  - 19.4. Deveres do Prático antes do início e durante a execução da faina de praticagem
+    - 19.4.1. Segurança da Navegação
+    - 19.4.2. Segurança da vida Humana no mar
+    - 19.4.3. Segurança da infraestrutura portuária
+    - 19.4.4. Prevenção da poluição
+  - 19.5. Os vários planos elaborados pelo Prático para a análise do movimento do navio
+  - 19.6. A efetividade do MPX e a conduta de passagem em Águas de Praticagem
+- 20. O governo e a condução de modernos navios em áreas portuárias
+  - 20.1. O ambiente do serviço de praticagem em áreas portuárias
+    - 20.1.1. As condições de condução e governo de navios em áreas portuárias
+    - 20.1.2. Fatores-chave na condução e governo do navio em águas confinadas
+    - 20.1.3. Gerenciamento das condições ambientais durante a manobrabilidade
+    - 20.1.4. Condições Gerais de condução e governo de alguns tipos de navios em áreas portuárias
+    - 20.1.5. Planos de contingência durante a manobra para evitar desastres
+  - 20.2. Manobras em baixas velocidades
+    - 20.2.1. Características das manobras em baixas velocidades
+    - 20.2.2. Situação em que o navio tem de recorrer à manobra em baixas velocidades
+    - 20.2.3. Razões pela qual a manobra em baixas velocidades é crítica
+      - 20.2.3.1. Desvantagens da velocidade mais baixa
+      - 20.2.3.2. RPM insuficiente de partidas de motor
+      - 20.2.3.3. RPM mínima indisponível
+      - 20.2.3.4. Redução de velocidade independente apenas de máquinas à ré
+      - 20.2.3.5. Ineficiência do leme com máquinas a ré
+      - 20.2.3.6. Efeitos quando com máquinas a ré
+      - 20.2.3.7. Efeitos da força lateral do propulsor quando com máquinas a ré
+      - 20.2.3.8. Limitações dos diferentes tipos de máquinas
+      - 20.2.3.9. Operando com CPP
+      - 20.2.3.10. Operando com navios de dois eixos
+  - 20.3. Regras gerais para manobras em baixas velocidades
+  - 20.4. Opções disponíveis para controlar o navio em baixa velocidade
+    - 20.4.1. Utilizando apenas máquina e leme
+    - 20.4.2. Utilizando bow thrusther
+    - 20.4.3. Fazendo uso das forças de corrente e vento
+  - 20.5. Exemplos de manobras extremas em velocidade muito baixa
+    - 20.5.1. Giro curto e circular em velocidade baixa
+    - 20.5.2. Girar com seguimento a ré
+    - 20.5.3. Emprego do Ponto Pivot em velocidade baixa
+- 21. Manobras de aproximação, atracação e amarração
+  - 21.1. Manobras de aproximação aos berços de atracação
+    - 21.1.1. Verificações antes de se aproximar do cais
+    - 21.1.2. Verificações quando se aproximando do cais
+    - 21.1.3. A velocidade para aproximação
+    - 21.1.4. Manobras quando junto ao cais
+  - 21.2. Atracação e amarração
+    - 21.2.1. O conceito de atracação segura
+    - 21.2.2. O conceito de amarração segura
+    - 21.2.3. Procedimentos de amarração no cais
+    - 21.2.4. Amarrações especiais
+      - 21.2.4.1. Dobrar amarração
+      - 21.2.4.2. Amarração quando em condições climáticas adversas
+      - 21.2.4.3. Forte corrente cruzada nos berços
+      - 21.2.4.4. Passagens muito próximas de navios em trânsito
+      - 21.2.4.5. Uso do ferro de fora
+      - 21.2.4.6. Amarração a contrabordo de outro navio
+    - 21.2.5. Amarração em boias
+      - 21.2.5.1. Amarração em quadro de boias
+      - 21.2.5.2. Amarração em monoboias
+    - 21.2.6. Amarração com ferros
+      - 21.2.6.1. Amarração “open moor”
+      - 21.2.6.2. Amarração “running moor” and “standing moor”
+      - 21.2.6.3. Amarração mediterrânea
+      - 21.2.6.4. Amarração báltica
+- 22. Manobras de desatracação e saída para navegar
+  - 22.1. Desatracação e manobra de saída do berço
+    - 22.1.1. Troca de informações
+    - 22.1.2. O planejamento para a desatracação
+    - 22.1.3. A manobra de saída do berço
+    - 22.1.4. Decisão de dispensar os rebocadores
+    - 22.1.5. Desembarque do Prático
+- 23. Manobras portuárias de Emergência
+  - 23.1. Manobras portuárias de emergência
+    - 23.1.1. Cenários de emergência durante manobras nos limites do porto
+    - 23.1.2. Informações do navio que devem ser conhecidas
+    - 23.1.3. Conhecimento da habilidade de parada do navio
+    - 23.1.4. Como executar a manobra de toda a força a ré
+    - 23.1.5. Procedimentos em caso de falha no telégrafo
+    - 23.1.6. Redução da velocidade quando com falha de máquina(s)
+    - 23.1.7. Procedimentos de emergência para parar o navio e evitar um desastre
+    - 23.1.8. Procedimentos de parada em velocidade alta e com espaços suficientes
+- 24. Manobras específicas
+  - 24.1. STS (Ship to Ship)
+    - 24.1.1. Planejamento e preparação prévia
+    - 24.1.2. Manobra de aproximação
+    - 24.1.3. Amarração
+    - 24.1.4. Transferência de carga
+    - 24.1.5. Desatracação e partidas
+  - 24.2. Amarração e uma única boia (SBM)
+    - 24.2.1. Preparação prévia
+    - 24.2.2. Manobra de aproximação
+    - 24.2.3. Amarração
+    - 24.2.4. Transferência de carga
+    - 24.2.5. Desatracação e partida
+- 25. Manobra de reboque de uma embarcação/objeto sem propulsão
+  - 25.1. Operação padrão de reboque de uma embarcação sem propulsor
+    - 25.1.1. Preparação para operação de reboque
+    - 25.1.2. Precauções para mar adverso
+    - 25.1.3. Comprimento do cabo de reboque
+    - 25.1.4. Estabelecimento da conexão de reboque
+    - 25.1.5. Troca de informações
+      - 25.1.5.1. Do Prático para o Comandante
+      - 25.1.5.2. Do Comandante para o Prático
+    - 25.1.6. Procedimentos
+      - 25.1.6.1. Monitoramento dos rebocadores
+      - 25.1.6.2. Comunicação
+      - 25.1.6.3. Boas práticas recomendadas
+      - 25.1.6.4. Perigos associados
+- 26. Utilização de rebocadores portuários
+  - 26.1. Fatores de projeto de rebocadores portuários
+  - 26.2. Tipos de rebocadores portuários
+  - 26.3. Métodos de assistência
+  - 26.4. Capacidades e limitações dos rebocadores
+    - 26.4.1. Limites ambientais para operações com rebocadores
+  - 26.5. Tonelagem de Tração Estática Necessária – Bollard Pull – BP
+  - 26.6. Efeitos de interação na segurança e no desempenho do rebocador
+  - 26.7. Segurança do Rebocador
+  - 26.8. Operação com cabos de reboque
+  - 26.9. Rebocadores Escort
+- 27. Classificação dos cabos de reboque e de amarração
+  - 27.1. Requisitos básicos para os cabos de reboque
+  - 27.2. Tipos de cabos de reboque
+    - 27.2.1. Cabos de fibra sintética
+    - 27.2.2. Características dos cabos de aço e dos cabos de fibras sintéticas
+    - 27.2.3. Possíveis composições por parte dos cabos de reboque
+    - 27.2.4. Redução da resistência do cabo – Estudo da Samson Ropes Tech.
+    - 27.2.5. Aposentadoria, inspeções e manutenção
+    - 27.2.6. Manuseio do cabo de reboque
+    - 27.2.7. Sistemas de segurança em relação ao cabo de reboque
+- 28. Equipamentos de reboque
+  - 28.1. Equipamentos e métodos empregados para alocar e realocar o ponto de reboque
+  - 28.2. Equipamentos e métodos empregados para colher o cabo de reboque
+  - 28.3. Requisitos para equipamentos de reboque em emergência, escort e estabilização de posição a ré do navio
+  - 28.4. EVATSTM – Novo conceito de reboque de emergência
+- 29. Operação de fundeio e utilização de aparelhos de fundear e suspender
+  - 29.1. Âncoras e amarras
+  - 29.2. Aprovação dos tipos de âncora pela Sociedade Classificadora
+  - 29.3. Equipamento de ancoragem de um navio
+  - 29.4. As operações de fundeio de um navio com uma única âncora
+  - 29.5. As operações de fundeio do navio com duas âncoras
+  - 29.6. Âncora do navio em emergência
+- 30. Classificação dos navios mercantes empregados em áreas portuárias
+  - 30.1. Critério PIANC
+  - 30.2. Tipos de navios
+  - 30.3. Parâmetros de projeto dos navios mercantes
+  - 30.4. Características globais no projeto de navios
+  - 30.5. Particularidades dos tipos de navios: Descrição, funcionalidade, DWT, GT ou TEU, LOA, boca e calado máximo
+- 31. Métodos de utilização de rebocadores empregados no Brasil
+- 32. Princípios básicos de estabilidade
+
+## III – NAVEGAÇÃO EM ÁGUAS RESTRITAS
+
+- 1. Instrumentos náuticos e de navegação
+- 2. Cinemática naval
+- 3. Carta Náutica
+- 4. Navegação de segurança
+- 5. Navegação com corrente
+- 6. Navegação com mau tempo
+- 7. Navegação fluvial
+- 8. Navegação batimétrica
+- 9. Marés e correntes de maré
+- 10. Planejamento de derrota em águas restritas (“Passage planning”)
+- 11. Manobra de embarcações em águas restritas (“Executing the Plan”; “Monitoring the ship´s progress”; “Teamwork” e “Navigating with integrated bridge and electronic chart systems”
+- 12. Navegação com o Prático a bordo
+- 13. Embarque e desembarque de Práticos
+- 14. Procedimentos operacionais do prático
+- 15. Contingências
+- 16. Utilização de equipamentos do passadiço:
+  - a) Odômetro
+  - b) Radar
+  - c) Ecobatímetro
+  - d) Anemômetro e anemoscópio
+  - e) Barômetro
+  - f) GPS e DGPS
+  - g) Carta Eletrônica e ECDIS
+  - h) Doppler Sonar
+  - i) “Automatic Identification System”
+  - j) “Dynamic Positioning Systems” (noções e conceitos básicos)
+- 17. Sistema Global de Socorro e Segurança Náutica (GMDSS)
+- 18. Equipamentos de navegação obrigatórios a bordo de todos os navios (Convenção SOLAS)
+  - 18.1. Equipamentos e sistemas de navegação de bordo
+    - 18.1.1. Regra para todas as embarcações
+    - 18.1.2. Regra para embarcações com AB maior que 150 e todos os passageiros
+    - 18.1.3. Regra para embarcações com AB maior que 300 e todos os passageiros
+    - 18.1.4. Regra para embarcações com AB maior que 300 em águas internacionais e AB maior que 500 em águas nacionais
+    - 18.1.5. Regras adicionais para embarcações com AB maior que 500
+    - 18.1.6. Regra para todos as embarcações de arqueação bruta igual a 500 limite em caso de avarias
+    - 18.1.7. Regra para todos os navios de arqueação bruta igual a 3.000
+    - 18.1.8. Regra todos os navios com arqueação bruta igual a 10.000
+    - 18.1.9. Regra para todos os navios com arqueação bruta igual a 50.000
+- 19. Agulhas náuticas
+  - 19.1. Agulhas magnéticas
+    - 19.1.1. Descrição e partes componentes
+    - 19.1.2. Vantagens e limitações
+    - 19.1.3. Declinação magnética
+    - 19.1.4. Desvio da agulha
+    - 19.1.5. Conversão de aproamentos e marcações
+    - 19.1.6. Registro das agulhas
+    - 19.1.7. Agulhas magnéticas de bordo
+    - 19.1.8. Bússolas de Fluxo Magnético
+  - 19.2. Agulhas giroscópicas
+    - 19.2.1. Conceito
+    - 19.2.2. Giroscópio básico
+    - 19.2.3. Tipos e componentes básicos de uma agulha giroscópica
+    - 19.2.4. Vantagens e limitações das agulhas giroscópicas
+    - 19.2.5. Utilização da agulha giroscópica
+    - 19.2.6. Desvio da giro
+    - 19.2.7. Novas tecnologias empregadas em giroscópios
+- 20. Equipamentos de medida de velocidade no mar
+  - 20.1. Odômetros de fundo
+    - 20.1.1. Tipo de pressão
+      - 20.1.1.1. Princípio de funcionamento
+      - 20.1.1.2. Vantagens/desvantagens
+    - 20.1.2. Tipo eletromagnético
+      - 20.1.2.1. Princípio de funcionamento
+      - 20.1.2.2. Vantagens/desvantagens
+  - 20.2. Odômetros doppler
+    - 20.2.1. Princípio de funcionamento
+    - 20.2.2. Vantagens/desvantagens
+- 21. Equipamentos para medição de profundidades
+  - 21.1. Ecobatímetros
+    - 21.1.1. Princípio fundamental
+    - 21.1.2. Descrição do equipamento
+    - 21.1.3. Medição de profundidades com o ecobatímetro
+- 22. Utilização e interpretação de cartas Náuticas
+  - 22.1. A carta náutica
+  - 22.2. A escala da carta
+  - 22.3. Principais elementos representados em uma carta náutica em papel
+    - 22.3.1. Reticulado
+    - 22.3.2. Título
+    - 22.3.3. Notas de precaução e explanatórias
+    - 22.3.4. Informações sobre Marés e Correntes
+    - 22.3.5. Rosa-dos-ventos ou rosa-dos-rumos
+    - 22.3.6. Auxílios à navegação
+    - 22.3.7. Elementos representados na parte terrestre carta náutica
+    - 22.3.8. Principais elementos representados na parte marítima
+    - 22.3.9. Outros elementos representados nas Cartas Náuticas
+    - 22.3.10. Diagramas de levantamentos e diagramas de zona de confiança
+    - 22.3.11. Símbolos e Abreviaturas - Carta 12000
+  - 22.4. Precisão e confiabilidade de uma carta náutica
+  - 22.5. Atualização das cartas náuticas
+  - 22.6. O plano cartográfico náutico brasileiro
+  - 22.7. O futuro da carta náutica em papel
+  - 22.8. Normas da Autoridade Marítima para Navegação e Cartas Náuticas
+- 23. A determinação visual da posição em águas de praticagem
+  - 23.1. O emprego de Linha de Posição (LDP) em águas restritas
+    - 23.1.1. Alinhamento
+    - 23.1.2. Marcação visual
+    - 23.1.3. Circunferência de igual distância
+    - 23.1.4. Isóbata
+  - 23.2. Métodos para obtenção da posição
+    - 23.2.1. Duas marcações visuais
+    - 23.2.2. Alinhamento e marcação visual
+  - 23.3. Precisão e confiança de uma posição observada
+  - 23.4. Triângulo de incerteza
+  - 23.5. Erros da posição observada
+    - 23.5.1. Conceitos
+    - 23.5.2. Incerteza
+    - 23.5.3. Erro
+    - 23.5.4. Precisão e acurácia
+    - 23.5.5. Erros acidentais
+      - 23.5.5.1. Erro médio quadrático
+    - 23.5.6. Erro Provável
+    - 23.5.7. Erros dos cruzamentos das linhas de posição
+      - 23.5.7.1. Zonas de Confiança. A Elipse de Erro
+      - 23.5.7.2. Erro radial
+      - 23.5.7.3. Cruzamento de duas linhas de posição
+- 24. Emprego de linhas de posição de segurança (LDP)
+  - 24.1. Conceito
+  - 24.2. Técnicas de emprego
+    - 24.2.1. Alinhamentos como LDP de Segurança
+    - 24.2.2. Marcação de Perigo ou Marcação de Segurança
+    - 24.2.3. Distância de perigo
+    - 24.2.4. Ângulo vertical de segurança
+    - 24.2.5. Ângulo horizontal de segurança
+  - 24.3. Uso de sondagens como limite de segurança
+- 25. Navegação radar
+  - 25.1. Equipamento radar
+    - 25.1.1. Desenvolvimento e classificação
+    - 25.1.2. Princípio de funcionamento e componentes básicos
+    - 25.1.3. Características da propagação radar
+    - 25.1.4. Apresentação da Imagem Radar
+    - 25.1.5. Controles Operacionais do Radar
+  - 25.2. Interpretação da imagem radar
+    - 25.2.1. Fatores que afetam a interpretação da imagem
+    - 25.2.2. Alvos Terrestres
+    - 25.2.3. Alvos no mar
+    - 25.2.4. Fenômenos Meteorológicos
+    - 25.2.5. Auxílios à navegação radar
+  - 25.3. Navegação radar
+    - 25.3.1. Precisão das distâncias e marcações radar
+    - 25.3.2. Uso do radar na navegação costeira e em águas restritas
+    - 25.3.3. Aterragem com o radar
+    - 25.3.4. Distância radar como LDP de Segurança
+    - 25.3.5. Fundeio de precisão com o radar
+    - 25.3.6. Navegação Paralela Indexada
+    - 25.3.7. Uso do radar na navegação costeira e em águas restritas
+    - 25.3.8. Uso do radar para evitar colisão no mar
+- 26. Conceito de marés e correntes de maré e seu emprego na navegação
+  - 26.1. Marés
+    - 26.1.1. O Fenômeno da maré e sua importância para a navegação
+    - 26.1.2. Conceitos básicos de maré
+    - 26.1.3. Marés de sizígia e marés de quadratura
+    - 26.1.4. Tipos de marés
+    - 26.1.5. Elementos das marés
+    - 26.1.6. Conceitos relacionados às marés
+    - 26.1.7. Planos de referências de marés
+    - 26.1.8. Previsão das marés
+    - 26.1.9. Uso da Tábua de marés
+    - 26.1.10. Método de estabelecimento do porto
+    - 26.1.11. Cuidados na estima das marés
+  - 26.2. Correntes de maré
+    - 26.2.1. Gênese das correntes de maré
+    - 26.2.2. Cartas de correntes de maré
+    - 26.2.3. Utilização das cartas de correntes de maré
+    - 26.2.4. Correntes de maré obtidas por modelagem numérica
+    - 26.2.5. Informações sobre correntes de maré apresentadas nas cartas náuticas
+    - 26.2.6. Notas finais sobre correntes de maré
+- 27. Publicações Náuticas
+  - 27.1. Importância e dotação
+  - 27.2. Catálogo de Cartas e Publicações
+  - 27.3. Carta 12.000
+  - 27.4. Roteiro
+  - 27.5. Lista de Faróis
+  - 27.6. Lista de Auxílios-Rádio
+  - 27.7. Tábuas das Marés e Cartas de Correntes de Maré
+  - 27.8. Atlas de Cartas Piloto
+  - 27.9. Almanaque Náutico
+  - 27.10. Outras Publicações Náuticas
+  - 27.11. Avisos aos Navegantes
+    - 27.11.1. Avisos aos Navegantes (AVGANTES)
+    - 27.11.2. Organização do folheto Área Marítima e Hidrovias em Geral
+- 28. Auxílios à Navegação
+  - 28.1. Importância e classificação dos auxílios à navegação
+  - 28.2. Auxílios visuais à navegação
+    - 28.2.1. Tipos de auxílios visuais
+    - 28.2.2. Descrição dos auxílios visuais
+    - 28.2.3. Balizamento
+    - 28.2.4. Identificação dos sinais de auxílio à navegação
+    - 28.2.5. Luzes de auxílio à navegação
+    - 28.2.6. Alcances dos auxílios visuais à navegação
+  - 28.3. Sistemas de balizamento marítimo
+    - 28.3.1. Antecedentes históricos
+    - 28.3.2. Sistema de balizamento marítimo da IALA
+    - 28.3.3. Utilização do sistema de balizamento marítimo da IALA
+    - 28.3.4. Numeração de balizamentos
+  - 28.4. Sinalização náutica complementar
+    - 28.4.1. Balizamento Fluvial e Lacustre
+    - 28.4.2. Sinalização de cais, píeres, molhes, enrocamentos, marinas, terminais, dolfins e trapiches
+    - 28.4.3. Sinalização de Pontes
+  - 28.5. Características das luzes exibidas pelos sinais de auxílios à navegação
+  - 28.6. A visibilidade no mar
+  - 28.7. Quadro do sistema de balizamento IALA encontrado em passadiços de navios brasileiros
+  - 28.8. Normas da Autoridade Marítima para Auxílios à Navegação
+- 29. Sistemas de acompanhamento em tempo real
+  - 29.1. Sistemas globais de navegação por satélites
+    - 29.1.1. GPS
+    - 29.1.2. Glonnas
+    - 29.1.3. Galileo
+    - 29.1.4. Beidou
+    - 29.1.5. DGNSS
+    - 29.1.6. Receptores GNSS
+    - 29.1.7. Agulhas satelitais
+    - 29.1.8. Vulnerabilidade da navegação por satélites
+  - 29.2. Cartas náuticas digitais
+    - 29.2.1. Levantamentos hidrográficos
+    - 29.2.2. Cartas náuticas raster
+    - 29.2.3. Cartas náuticas vetoriais
+    - 29.2.4. Aplicações especiais
+- 30. Navegação radar ARPA
+  - 30.1. Auxílio de plotagem automática radar
+    - 30.1.1. O radar de navegação
+    - 30.1.2. O radar com ARPA
+    - 30.1.3. A tela do ARPA
+    - 30.1.4. Opções de toque
+    - 30.1.5. Estados de atividade
+    - 30.1.6. Ajustes da imagem radar
+    - 30.1.7. Escala de distância
+    - 30.1.8. Medidas de marcações e distâncias
+    - 30.1.9. Alterações na imagem radar
+    - 30.1.10. Orientação da imagem radar
+    - 30.1.11. Movimentos da imagem radar
+    - 30.1.12. Detecção de alvos
+    - 30.1.13. Informações de rumo e velocidade
+    - 30.1.14. Aquisição automática de alvos
+    - 30.1.15. Aquisição manual de alvos
+    - 30.1.16. Exibição de símbolos
+    - 30.1.17. Ameaças e alvos perdidos
+    - 30.1.18. Seleção de alvos em acompanhamento
+    - 30.1.19. Zonas de proteção
+    - 30.1.20. Áreas de rejeição
+    - 30.1.21. Simulação de manobra
+  - 30.2. Regulamentação IMO
+  - 30.3. Sistema de Identificação Automática (AIS)
+    - 30.3.1. Funcionamento
+    - 30.3.2. Dados transmitidos
+    - 30.3.3. Exibição de informações
+    - 30.3.4. Utilização conjunta do AIS com o Radar/ARPA
+    - 30.3.5. Emprego do AIS na navegação fluvial
+    - 30.3.6. Emprego do AIS na sinalização náutica
+    - 30.3.7. Aplicativos AIS na internet
+    - 30.3.8. Outras aplicações do AIS
+    - 30.3.9. Regulamentação IMO para uso do AIS
+- 31. Cartas eletrônicas
+  - 31.1. ECDIS
+  - 31.2. ECS
+  - 31.3. Vantagens e desvantagens de um ECDIS
+  - 31.4. Planejamento e execução da Navegação
+  - 31.5. Integração do ECDIS com o radar, o ARPA e o AIS
+  - 31.6. Regulamentação IMO para o desempenho padrão ECDIS
+- 32. Sistemas de posicionamento dinâmico
+  - 32.1. Conceito e aplicações
+  - 32.2. Regulamentação IMO
+- 33. Integração de ferramentas em terra
+  - 33.1. Esquema de separação de tráfego (TSS)
+  - 33.2. Serviço de tráfego de embarcações (VTS)
+  - 33.3. Regulamentação da Autoridade Marítima para emprego de VTS
+- 34. Procedimentos de navegação em Águas de Praticagem
+  - 34.1. Características de águas de navegação de praticagem
+    - 34.1.1. Perigos associados
+    - 34.1.2. Fatores importantes para a condução em navegação em águas de praticagem
+    - 34.1.3. Verificações recomendadas antes da entrada em um canal de acesso
+    - 34.1.4. Verificações recomendadas quando entrando no canal de acesso
+    - 34.1.5. Alinhamento com a entrada do canal
+    - 34.1.6. O gerenciamento da área de entrada do canal
+  - 34.2. O gerenciamento da posição do navio no canal de acesso
+    - 34.2.1. Margens limítrofes de segurança
+    - 34.2.2. Determinação do rumo a ser conduzido
+    - 34.2.3. Técnicas de manutenção da posição no centro do canal e suas limitações
+    - 34.2.4. Manutenção do rumo
+      - 34.2.4.1. Métodos de determinação do erro da giro em um canal
+    - 34.2.5. Tolerâncias aceitáveis quando navegando em um canal
+    - 34.2.6. O fenômeno do “navio beijar a boia”
+    - 34.2.7. Procedimentos de passadiço para a manutenção segura do navio no canal de acesso
+- 35. O gerenciamento de navegação em águas de praticagem
+  - 35.1. Checklists de planejamento
+    - 35.1.1. Preparativos iniciais (publicações, cartas, rotas, ETA/ETD e LDL)
+    - 35.1.2. Avaliação do planejamento, seleção de rota e outros fatores
+    - 35.1.3. Rumo a ser seguido (correntes de maré e margem de manobra)
+    - 35.1.4. Planejamento de correções e marcas de identificação
+    - 35.1.5. Pontos de acesso/não acesso
+    - 35.1.6. Controle de rota
+    - 35.1.7. Manter-se afastado de perigos
+    - 35.1.8. A segurança reduzida deve ser marcada no ECDIS
+    - 35.1.9. Plano de navegação de praticagem no ECDIS
+    - 35.1.10. Verificações antes do embarque o prático e estado necessário dos sistemas e equipamentos de navegação
+  - 35.2. Execução da Praticagem visual x Praticagem não visual
+    - 35.2.1. Controle de trajetória, alteração de rumo e monitoramento de curvas
+    - 35.2.2. Procedimento de praticagem e outros procedimentos importantes
+    - 35.2.3. Coordenação da equipe e serviço ao comando do navio
+    - 35.2.4. Procedimentos de praticagem às cegas
+    - 35.2.5. Fase de manobra do navio
+    - 35.2.6. Registros e avaliação pós-viagem
+    - 35.2.7. Áreas fracas comuns
+    - 35.2.8. O que a equipe do passadiço deve fazer durante a navegação de praticagem
+  - 35.3. Navegação em rios, canais e portos
+    - 35.3.1. Planejamento da navegação fluvial
+    - 35.3.2. Execução de navegação fluvial
+    - 35.3.3. Navegação em canais
+    - 35.3.4. A deriva do vento
+- 36. Gerenciamento de recursos do passadiço realizado pelo Comandante do Navio e sua equipe
+  - 36.1. A organização eficaz do passadiço
+    - 36.1.1. Visão geral
+    - 36.1.2. Gerenciamento de recursos do passadiço e a equipe de passadiço
+      - 36.1.2.1. Composição da equipe de passadiço
+      - 36.1.2.2. Único observador
+      - 36.1.2.3. A equipe de passadiço
+      - 36.1.2.4. A equipe de passadiço e o Comandante
+      - 36.1.2.5. Liderança da equipe do passadiço, gestão de recursos e trabalho em equipe
+      - 36.1.2.6. Elemento humano da equipe do passadiço
+      - 36.1.2.7. Briefing e debriefing
+      - 36.1.2.8. A equipe do passadiço e a comunicação interna
+      - 36.1.2.9. Tarefas da equipe de passadiço
+      - 36.1.2.10. Novas informações pessoais e familiarizações
+      - 36.1.2.11. Horas de descanso
+      - 36.1.2.12. Manutenção de registros e cronogramas
+      - 36.1.2.13. Políticas sobre drogas e álcool
+      - 36.1.2.14. Uso do inglês
+    - 36.1.3. Política e procedimentos da empresa
+      - 36.1.3.1. Distribuição de informações
+      - 36.1.3.2. Pedidos
+    - 36.1.4. Celulares e dispositivos eletrônicos pessoais
+    - 36.1.5. Internet e e-mail do passadiço
+    - 36.1.6. Preparação para emergências
+  - 36.2. O plano de passagem do Comandante do navio e sua equipe
+    - 36.2.1. Princípios
+    - 36.2.2. Responsabilidade pelo planejamento de passagem
+      - 36.2.2.1. Envolvimento da empresa
+      - 36.2.2.2. Restrições ao planejamento de passagem
+    - 36.2.3. Avaliação
+      - 36.2.3.1. Cartas oficiais
+      - 36.2.3.2. Publicações náuticas oficiais e outras informações
+    - 36.2.4. Planejamento efetuado pelo Comandante e sua equipe
+      - 36.2.4.1. Planejamento de passagem em águas oceânicas
+      - 36.2.4.2. Planejamento de passagem em águas costeiras
+      - 36.2.4.3. Planejamento de passagem em águas de praticagem
+      - 36.2.4.4. Planejamento de passagem usando ECDIS
+      - 36.2.4.5. Zona de confiança da categoria
+      - 36.2.4.6. Finalização do plano de passagem
+      - 36.2.4.7. Roteamento meteorológico
+      - 36.2.4.8. Informações sobre o plano de passagem
+      - 36.2.4.9. Alterações nas rotas
+      - 36.2.4.10. Transferência de posições
+      - 36.2.4.11. Informações de segurança marítima (MSI)
+      - 36.2.4.12. Planejamento e fundeio
+      - 36.2.4.13. Roteamento de navios
+      - 36.2.4.14. Sistemas de relatórios de navios
+      - 36.2.4.15. Serviços de tráfego de embarcações (VTS)
+    - 36.2.5. Execução e monitoramento do plano de passagem
+  - 36.3. Responsabilidades de operação e manutenção dos equipamentos de passadiço pelo pessoal de bordo
+    - 36.3.1. Generalidades
+      - 36.3.1.1. Requisitos de transporte
+      - 36.3.1.2. Desempenho do equipamento
+      - 36.3.1.3. Anomalias de software
+      - 36.3.1.4. Anomalias do ECDIS
+      - 36.3.1.5. Segurança cibernética
+      - 36.3.1.6. Dispositivos de governo e piloto automático
+      - 36.3.1.7. Operação e testes
+    - 36.3.2. Controle de governo
+      - 36.3.2.1. Piloto automático – controle de aproamento
+      - 36.3.2.2. Piloto automático – manutenção automática de trajetória
+      - 36.3.2.3. Alarme de desvio de rumo
+      - 36.3.2.4. Sistemas de atracação
+    - 36.3.3. Sistemas de bússolas
+      - 36.3.3.1. Agulha magnética
+      - 36.3.3.2. Agulha giroscópica
+      - 36.3.3.3. Bússola GNSS
+      - 36.3.3.4. Erros das bússolas
+      - 36.3.3.5. Razão de guinada
+    - 36.3.4. Registro de velocidade e distância
+      - 36.3.4.1. Medição de velocidade
+      - 36.3.4.2. Tipos de registro de velocidade
+      - 36.3.4.3. Registro da distância percorrida
+    - 36.3.5. Ecobatímetros
+    - 36.3.6. Sistema de alarme de vigia de navegação do passadiço (BNWAS)
+    - 36.3.7. Luzes de navegação e equipamento de sinalização
+    - 36.3.8. Gravador de dados de viagem (VDR)
+      - 36.3.8.1. Visão geral
+      - 36.3.8.2. Requisitos do VDR
+      - 36.3.8.3. Preservação de registros
+      - 36.3.8.4. Teste de VDR
+      - 36.3.8.5. Reprodução de VDR
+    - 36.3.9. Sistemas de posicionamento eletrônico
+      - 36.3.9.1. Sistema global de navegação por satélite (GNSS)
+      - 36.3.9.2. GNSS diferencial
+      - 36.3.9.3. Erros e alarmes associados ao GNSS
+      - 36.3.9.4. Receptores GNSS
+      - 36.3.9.5. Datum geodésico
+      - 36.3.9.6. Precisão e exatidão da carta
+    - 36.3.10. Sistema de Identificação Automática (AIS)
+      - 36.3.10.1. Visão geral do AIS
+      - 36.3.10.2. Auxílios à navegação por AIS (AtoN)
+      - 36.3.10.3. AIS por satélite (SAT-AIS)
+      - 36.3.10.4. AIS e SAR
+    - 36.3.11. Radar e auxílios à plotagem de radar
+      - 36.3.11.1. Características do radar
+      - 36.3.11.2. Uso seguro do radar
+      - 36.3.11.3. Detecção de alvos
+      - 36.3.11.4. Sobreposição de imagens de radar
+      - 36.3.11.5. Radar e prevenção de colisões
+      - 36.3.11.6. Auxílios para plotagem de radar
+      - 36.3.11.7. Entradas de aproamento e velocidade
+      - 36.3.11.8. Aquisição automática de alvos por radar
+      - 36.3.11.9. Alvos AIS em ARPA
+      - 36.3.11.10. Radar e navegação
+      - 36.3.11.11. Transponder de busca e salvamento
+    - 36.3.12. Cartas e publicações náuticas
+      - 36.3.12.1. Transporte de cartas e publicações náuticas
+      - 36.3.12.2. Cartas oficiais e publicações náuticas
+      - 36.3.12.3. Cartas eletrônicas
+    - 36.3.13. Sistema de exibição e informação de cartas náuticas eletrônicas (ECDIS)
+      - 36.3.13.1. Visão geral
+      - 36.3.13.2. Atualizações de cartas náuticas
+      - 36.3.13.3. Atualizações do software ECDIS
+      - 36.3.13.4. Requisitos de backup
+    - 36.3.14. Sistemas de passadiços integrados (IBS) e sistemas de navegação integrados (INS)
+    - 36.3.15. Comunicações GMDSS
+      - 36.3.15.1. Equipamento GMDSS
+  - 36.4. Obrigações do Comandante do navio e sua equipe quando assistidos por Praticagem
+    - 36.4.1. Visão Geral
+    - 36.4.2. Preparação para a Praticagem
+      - 36.4.2.1. Plano de Passagem
+      - 36.4.2.2. Navio e Equipe do Passadiço
+      - 36.4.2.3. Prático
+      - 36.4.2.4. O pilot card
+    - 36.4.3. Embarque Seguro do Prático
+      - 36.4.3.1. Horário de Embarque do Prático
+      - 36.4.3.2. Embarque do Prático
+    - 36.4.4. Troca de Comandante/Prático (MPX)
+      - 36.4.4.1. Mais de um Prático
+    - 36.4.5. Deveres e Responsabilidades
+      - 36.4.5.1. Responsabilidades da Equipe do Passadiço
+      - 36.4.5.2. Responsabilidades do Prático
+- 37. Setores de visibilidade em passadiços de navios mercantes SOLAS
+  - 37.1. Requisitos de visibilidade e setores cegos no passadiço
+- 38. Gerenciamento da equipe de passadiço
+  - 38.1. Conceito
+    - 38.1.1. O gerenciamento de pessoas
+    - 38.1.2. Cadeia de erros
+    - 38.1.3. Acidentes de navegação e suas causas
+    - 38.1.4. Encalhes e suas causas
+    - 38.1.5. Navegação segura
+  - 38.2. Avaliação da passagem
+    - 38.2.1. Fontes de informação
+    - 38.2.2. Passagens oceânicas
+    - 38.2.3. Passagens costeiras
+  - 38.3. O plano de passagem
+    - 38.3.1. Áreas a serem evitadas
+    - 38.3.2. Margens de segurança
+    - 38.3.3. Água segura
+    - 38.3.4. Rotas oceânicas
+    - 38.3.5. Rotas costeiras
+    - 38.3.6. Alteração de carta
+    - 38.3.7. Distância fora de rota
+    - 38.3.8. Desvio da rota
+    - 38.3.9. Folga abaixo da quilha (visão conservadora do Comandante)
+    - 38.3.10. Janela de maré
+    - 38.3.11. Tolerância de corrente
+    - 38.3.12. Alteração de rumo
+    - 38.3.13. Ponto de início de guinada
+    - 38.3.14. Indexação paralela
+    - 38.3.15. Mapeamento ARPA
+    - 38.3.16. Pontos de referência
+    - 38.3.17. Posições de aborto de navegação
+    - 38.3.18. Contingências
+    - 38.3.19. Verificação de posição
+    - 38.3.20. Verificação primária e secundária
+    - 38.3.21. Objetos conspícuos
+    - 38.3.22. Luzes de aproximação
+    - 38.3.23. Frequência e regularidade da observação de posição
+    - 38.3.24. Informações Adicionais
+    - 38.3.25. Pontos de relatório
+    - 38.3.26. Preparo da âncora
+    - 38.3.27. Embarque de Práticos
+    - 38.3.28. Engajamento de rebocadores
+    - 38.3.29. Áreas de tráfego
+    - 38.3.30. Consciência situacional
+      - 38.3.30.1. Identificação da posição
+      - 38.3.30.2. Erro da giro
+      - 38.3.30.3. Alinhamentos de segurança
+      - 38.3.30.4. Marcações de segurança
+      - 38.3.30.5. Aproamento seguro
+    - 38.3.31. Alcance das luzes dos auxílios a navegação
+      - 38.3.31.1. Alcance geográfico
+      - 38.3.31.2. Alcance luminoso
+      - 38.3.31.3. Alcance nominal
+    - 38.3.32. Luzes de aproximação
+      - 38.3.32.1. Alcance extremo
+    - 38.3.33. Ecobatímetro
+    - 38.3.34. Carta superpopulada
+    - 38.3.35. Registro das Informações
+      - 38.3.35.1. Livro de planejamento
+      - 38.3.35.2. "Bandalho" do livro de planejamento
+    - 38.3.36. Aprovação do Comandante
+    - 38.3.37. Mudanças no planejamento
+    - 38.3.38. AIS
+  - 38.4. Execução do plano de passagem/viagem
+    - 38.4.1. Táticas
+      - 38.4.1.1. ETAs para Maré
+      - 38.4.1.2. ETA para Luz do Dia
+      - 38.4.1.3. Condições de Tráfego
+      - 38.4.1.4. ETA de Destino
+      - 38.4.1.5. Correntes de Maré
+    - 38.4.2. Modificação do Plano
+    - 38.4.3. Pessoal Adicional
+    - 38.4.4. Briefing
+    - 38.4.5. Fadiga
+    - 38.4.6. Preparação para Passagem/Viagem
+    - 38.4.7. Preparação do passadiço
+    - 38.4.8. Monitoramento do progresso do navio
+    - 38.4.9. Determinação da posição
+    - 38.4.10. Orientações Visuais
+    - 38.4.11. Regularidade
+    - 38.4.12. Posição estimada
+    - 38.4.13. Sondagens
+    - 38.4.14. Erro de cruzamento de rota
+    - 38.4.15. Emergências não-navegacionais
+    - 38.4.16. Gerenciamento de tempo
+    - 38.4.17. Vigia
+    - 38.4.18. Consciência Situacional do Oficial de Quarto
+- 39. Regulamento para Evitar Abalroamento no Mar
+  - 39.1. Regulamento Internacional para evitar abalroamento no mar
+    - 39.1.1. Generalidades
+      - 39.1.1.1. Aplicação
+      - 39.1.1.2. Responsabilidade
+      - 39.1.1.3. Definições gerais
+    - 39.1.2. Regras de governo e navegação
+      - 39.1.2.1. Condução de embarcações em qualquer condição de visibilidade
+      - 39.1.2.2. Condução de uma embarcação no visual uma da outra
+      - 39.1.2.3. Condução de uma embarcação em visibilidade restrita
+    - 39.1.3. Luzes e marcas
+    - 39.1.4. Sinais sonoros e luminosos
+    - 39.1.5. Isenções
+    - 39.1.6. Posicionamento e detalhes técnicos de luzes e marcas
+    - 39.1.7. Sinais adicionais para embarcações de pesca pescando muito próximas umas das outras
+    - 39.1.8. Detalhes técnicos de aparelhos de sinalização sonora
+    - 39.1.9. Sinais de perigo
+  - 39.2. Normas da Autoridade Marítima para embarcações empregadas na navegação interior
+    - 39.2.1. Regras especiais para evitar abalroamento na Navegação Interior
+- 40. Levantamentos Hidrográficos
+  - 40.1. Normas da Autoridade Marítima Brasileira
+
+## IV – LEGISLAÇÃO E REGULAMENTAÇÃO
+
+- 1. LESTA e RLESTA - Lei de Segurança do Tráfego Aquaviário e o seu Decreto Regulamentador
+- 2. Lei que dispõe sobre o Tribunal Marítimo e a regulamentação sobre comunicação e investigação de fatos e acidentes da navegação marítima, fluvial e lacustre
+- 3. Inquéritos Administrativos sobre Acidentes e Fatos da Navegação
+- 4. Borda-livre estabilidade intacta
+- 5. Regras internacionais para evitar abalroamento
+- 6. Regras especias para evitar abalroamento em Águas Jurisdicionais Brasileiras
+- 7. Tráfego e permanência de Embarcações em Águas Jurisdicionais Brasileiras
+- 8. Serviço de Praticagem no Brasil
+- 9. Auxílios à Navegação
+- 10. Conhecimento e utilização de publicações náuticas da DHN
+- 11. Cerimonial da Marinha Mercante
+- 12. Estrutura da Autoridade Marítima Brasileira
+- 13. Serviço de Busca e Salvamento Marítimo (SAR) no Brasil
+- 14. Serviço de Tráfego de Embarcações (VTS)
+- 15. A regulamentação da Atividade de Praticagem
+- 16. Procuradoria Especial da Marinha
+- 17. Registro de Propriedade Marítima no Brasileira
+- 18. Registro Especial Brasileiro para Embarcações
+- 19. Lei das Forças Armadas
+  - 19.1. Art. 17 – Atribuições subsidiárias/particulares da Marinha
+- 20. Lei dos Portos – O Porto Organizado, Administração Portuária e Programa Nacional de Dragagem (Lei nº 12.815/2013)
+  - CAPÍTULO I – Definições e Objetivos
+  - CAPÍTULO IV – Da Administração do Porto Organizado
+  - CAPÍTULO VIII – Do Programa Nacional de Dragagem Portuária e Hidroviária
+- 21. Recomendações IMO sobre treinamento, certificação e procedimentos operacionais para práticos marítimos, que não práticos de alto-mar
+
+## V – METEOROLOGIA E OCEANOGRAFIA
+
+- 1. Marés
+- 2. Cartas de correntes de marés
+- 3. Correntes de densidade e correntes costeiras
+- 4. Ondas
+- 5. Interpretação de áreas geradoras de vagas
+- 6. Climatologia
+- 7. Cartas piloto
+- 8. Navegação meteorológica.
+- 9. Navegação de mau tempo.
+- 10. Pressão atmosférica
+  - 10.1. Medida da pressão atmosférica
+  - 10.2. Variação vertical
+  - 10.3. Ciclo diurno
+- 11. Ventos
+  - 11.1. Representação da Intensidade e direção
+  - 11.2. Forças que influenciam o vento
+  - 11.3. Circulação Geral da Atmosfera
+  - 11.4. Sistemas de brisa
+- 12. Visibilidade
+  - 12.1. Fatores que afetam a visibilidade atmosférica
+  - 12.2. Tipos de nevoeiro (radiação, advecção e evaporação)
+  - 12.3. Observação da visibilidade
+- 13. Cobertura do céu
+  - 13.1. Classificação de nuvens
+  - 13.2. Observação da cobertura do céu
+  - 13.3. Nuvens e precipitação
+- 14. Precipitação
+  - 14.1. Medida da precipitação
+  - 14.2. Classificação da precipitação de acordo com o tipo e a intensidade
+- 15. Sistemas Atmosféricos
+  - 15.1. Massas de ar e frentes
+  - 15.2. Ciclones
+  - 15.3. Tempestades severas
+  - 15.4. Noções de previsão numérica do tempo
+  - 15.5. Interpretação de produtos meteorológicos (boletins, imagens de satélite, cartas de vento, pressão, precipitação, etc)
+- 16. Elementos meteorológicos
+  - 16.1. Radiação solar
+  - 16.2. Temperatura do ar
+  - 16.3. Temperatura da superfície do mar
+  - 16.4. Pressão atmosférica
+  - 16.5. Umidade do ar
+  - 16.6. Evaporação
+  - 16.7. Condensação
+  - 16.8. Nebulosidade
+  - 16.9. Nuvens
+  - 16.10. Precipitação
+  - 16.11. Nevoeiro
+  - 16.12. Névoa
+  - 16.13. Visibilidade
+- 17. Circulação do ar
+  - 17.1. Ar estável e ar instável
+  - 17.2. Circulações nas baixas e altas pressões
+    - 17.2.1. Centros de baixa pressão
+    - 17.2.2. Centros de alta pressão
+    - 17.2.3. Cavados e cristas
+    - 17.2.4. Convergência e divergência
+  - 17.3. Brisas
+  - 17.4. Ventos
+  - 17.5. Circulação geral da atmosfera
+- 18. Desenvolvimento de atividades convectivas
+  - 18.1. Processo convectivo e condições propícias
+  - 18.2. Características da nuvem cumulonimbus
+- 19. Sistemas tropicais
+  - 19.1. Ventos alíseos e zona de convergência intertropical
+  - 19.2. Características tropicais e ciclones tropicais
+- 20. Sistemas sinóticos
+  - 20.1. Definição
+  - 20.2. Massas de ar e frentes
+    - 20.2.1. Frente fria
+    - 20.2.2. Frente quente
+    - 20.2.3. Frente oclusa
+    - 20.2.4. Frente estacionária
+- 21. Interpretações de Informações Meteorológicas, de imagens satelitais, de cartas de pressão e do Boletim Meteoromarinha
+  - 21.1. Imagens de satélites meteorológicos
+  - 21.2. Boletins meteorológicos
+    - 21.2.1. Boletim de previsão para áreas portuárias
+    - 21.2.2. Boletins de condições e previsão do tempo
+    - 21.2.3. Boletim especial de previsão
+  - 21.3. Cartas sinóticas
+  - 21.4. Análise sinótica
+  - 21.5. Circulação de ventos sobre o mar
+  - 21.6. Ressaca
+  - 21.7. Características das circulações no hemisfério sul
+  - 21.8. Informações climatológicas
+  - 21.9. Diagnóstico do tempo
+- 22. Climatologia
+  - 22.1. Cartas piloto
+  - 22.2. Elementos de cartas piloto
+    - 22.2.1. Utilização do atlas de cartas piloto brasileiro
+      - 22.2.1.1. Descrição das características e símbolos
+- 23. Teoria das ondas aplicadas à oceanografia
+  - 23.1. A teoria de ondas de gravidade em um mar regular
+  - 23.2. O histórico do desenvolvimento da teoria das ondas do mar
+  - 23.3. O potencial de velocidades
+  - 23.4. A função de corrente e as linhas de corrente
+  - 23.5. A origem da moderna teoria linear de ondas
+  - 23.6. A onda estacionária
+  - 23.7. A onda progressiva
+  - 23.8. A velocidade de propagação de uma onda monocromática
+  - 23.9. Definição de ondas rasas, intermediárias e profundas em relação ao potencial de velocidades
+  - 23.10. A função de dispersão e o comprimento da onda
+  - 23.11. A trajetória de uma partícula fluida na teoria linear
+  - 23.12. A velocidade de deriva
+  - 23.13. O campo de pressões gerado por uma onda progressiva em águas profundas
+  - 23.14. O campo de pressões gerado por uma onda progressiva em águas rasas
+  - 23.15. Superposição de ondas e velocidade de grupo
+  - 23.16. O conceito de velocidade de grupo
+  - 23.17. A energia da onda progressiva
+  - 23.18. O fluxo de energia ou propagação de energia
+  - 23.19. A teoria não linear das ondas de gravidade
+  - 23.20. A força de pressão de segunda ordem
+- 24. Informações Hidro/Meteorológicas aplicadas à navegação em vias de acesso aos portos
+  - 24.1. As principais demandas
+  - 24.2. Visão geral dos parâmetros hidro/meteorológicos
+  - 24.3. O efeito tamanho dos navios e os efeitos hidro/meteorológicas
+  - 24.4. A evolução dos métodos de previsão
+    - 24.4.1. Parâmetros meteorológicos
+    - 24.4.2. Parâmetros hidrodinâmicos
+      - 24.4.2.1. Previsão de marés
+      - 24.4.2.2. Previsão de ondas
+    - 24.4.3. Técnicas atuais de monitoramento e comunicação de dados
+- 25. Requisitos dos sistemas de aquisição de informações hidro/meteorológicas
+  - 25.1. Necessidades dos usuários
+  - 25.2. Aquisição de dados
+  - 25.3. Previsão das condições hidro/meteorológicas
+  - 25.4. Aplicação
+- 26. A aquisição de informações, previsão e aplicação de dados hidro/meteorológicos
+  - 26.1. Técnicas modernas de aquisição de dados ambientais
+  - 26.2. Medições meteorológicas
+    - 26.2.1. Vento
+    - 26.2.2. Pressão atmosférica
+    - 26.2.3. Visibilidade
+  - 26.3. Medições hidrodinâmicas
+    - 26.3.1. Medições de ondas geradas pelo vento e ondas swell
+      - 26.3.1.1. Medições no local
+      - 26.3.1.2. Sensoriamento remoto
+      - 26.3.1.3. Medições Radar
+      - 26.3.1.4. Altímetros
+    - 26.3.2. Ondas de infragravidade
+    - 26.3.3. Medições acuradas do nível d´água
+    - 26.3.4. Medições de correntes
+    - 26.3.5. Medições da temperatura da água e salinidade
+  - 26.4. Gerenciamento de dados
+  - 26.5. Transmissão e armazenamento de dados
+  - 26.6. Exatidão das medições e informações
+- 27. Previsão de parâmetros hidrodinâmicos e meteorológicos
+  - 27.1. Visão geral
+  - 27.2. Parâmetros para a previsão meteorológica
+    - 27.2.1. Contexto geral sobre a previsão meteorológica
+      - 27.2.1.1. Previsões no mar
+      - 27.2.1.2. Previsões em portos e áreas costeiras
+      - 27.2.1.3. Observações e previsões
+    - 27.2.2. Sistemas de previsão
+      - 27.2.2.1. Métodos empíricos
+      - 27.2.2.2. Métodos numéricos
+      - 27.2.2.3. Previsões determinísticas e informação estatística
+  - 27.3. Parâmetros de previsão hidrodinâmicos
+    - 27.3.1. Contexto geral sobre a previsão de hidrodinâmica
+    - 27.3.2. Ondas
+      - 27.3.2.1. Parâmetros chave na previsão de ondas
+      - 27.3.2.2. Métodos empíricos
+      - 27.3.2.3. Métodos numéricos
+    - 27.3.3. Nível d'água
+      - 27.3.3.1. Visão geral
+      - 27.3.3.2. Maré astronômica
+      - 27.3.3.3. Diferenças entre a maré medida e a maré astronômica
+    - 27.3.4. Correntes
+      - 27.3.4.1. Cartas de corrente
+      - 27.3.4.2. Métodos empíricos
+      - 27.3.4.3. Métodos numéricos
+      - 27.3.4.4. Aproximação híbrida
+    - 27.3.5. Temperatura d'água e salinidade
+  - 27.4. Configuração do sistema de previsão geral
+  - 27.5. Exatidão e confiabilidade do sistema
+    - 27.5.1. Visão geral
+    - 27.5.2. Vento e pressão
+    - 27.5.3. Visibilidade
+    - 27.5.4. Ondas
+    - 27.5.5. Níveis da água
+    - 27.5.6. Correntes
+    - 27.5.7. Densidade da água
+    - 27.5.8. Confiabilidade geral do sistema de previsão
+
+## VI – COMUNICAÇÕES
+
+- 1. Vocabulário padrão de navegação marítima
+  - 1.1. Recomendações IMO
+    - 1.1.1. Posição do SMCP da IMO na prática marítima
+    - 1.1.2. Organização do SMCP da IMO
+    - 1.1.3. Posição do SMCP da IMO na Educação e Treinamento Marítimo
+    - 1.1.4. Recursos básicos de comunicação
+    - 1.1.5. Convenções tipográficas
+  - 1.2. Definições e conceitos gerais
+    - 1.2.1. Procedimento
+    - 1.2.2. Ortografia
+    - 1.2.3. Marcadores de Mensagem
+    - 1.2.4. Respostas
+    - 1.2.5. Sinais de socorro, urgência e segurança
+    - 1.2.6. Frases organizacionais padrão
+    - 1.2.7. Correções
+    - 1.2.8. Prontidão
+    - 1.2.9. Repetição
+    - 1.2.10. Números
+    - 1.2.11. Posições
+    - 1.2.12. Marcações
+    - 1.2.13. Rumos
+    - 1.2.14. Distâncias
+    - 1.2.15. Velocidade
+    - 1.2.16. Tempos
+    - 1.2.17. Nomes geográficos
+    - 1.2.18. Palavras ambíguas
+  - 1.3. Glossário
+    - 1.3.1. Termos gerais
+    - 1.3.2. Termos especiais do VTS
+  - 1.4. Frases padrão de comunicação marítima da IMO: parte A
+    - 1.4.1. Frases de comunicação externa
+    - 1.4.2. Mensagens GMDSS padrão
+    - 1.4.3. Frases de comunicação a bordo
+  - 1.5. Frases padrão de comunicação marítima da IMO: parte B
+    - 1.5.1. Condução da embarcação
+    - 1.5.2. Segurança a bordo
+- 2. Princípios de radiocomunicações marítimas
+  - 2.1. Onda eletromagnética
+  - 2.2. Noções de propagação
+  - 2.3. Frequência
+  - 2.4. Antena
+  - 2.5. Princípios gerais do Serviço Móvel Marítimo
+  - 2.6. Equipamentos de radiotelefonia
+- 3. Código Internacional de Sinais (CIS)
+  - 3.1. Bandeiras e flâmulas internacionais
+  - 3.2. Explicação e observações gerais para emprego do CIS
+  - 3.3. Definições
+  - 3.4. Métodos de sinalização
+  - 3.5. Instruções gerais
+  - 3.6. Radiotelefonia
+  - 3.7. Sinais de letra única
+- 4. Sistema Marítimo Global de Socorro e Segurança
+
+## VII – CONHECIMENTOS GERAIS
+
+- 1. Diretrizes recomendadas pela IMO para o planejamento portuário
+  - 1.1. Circular do comitê de facilitação da IMO com as referências bibliográficas recomendadas para a interface entre o navio e o porto.
+- 2. Planejamento portuário – Aspectos Náuticos
+  - 2.1. Vias de Acesso a Instalações Portuárias
+    - 2.1.1. Conceitos gerais
+    - 2.1.2. Definições de Projeto Conceitual e Projeto Detalhado
+    - 2.1.3. Parâmetros e definições do Projeto Conceitual
+    - 2.1.4. Parâmetros e definições Projeto Detalhado
+  - 2.2. Análise de Risco no Planejamento Portuário
+  - 2.3. Limites operacionais ambientais – valores de referência 2
+  - 2.4. Métodos e técnicas de simulação de navios
+- 3. Diretrizes PIANC para o projeto das vias de acesso
+  - 3.1. Aspectos gerais sobre projetos de canais de acesso
+  - 3.2. Projeto das dimensões verticais
+  - 3.3. Largura do canal, entrada do porto, áreas de manobra e fundeio
+  - 3.4. Profundidade em águas lamosas
+  - 3.5. Recomendação espanhola para o projeto de largura do canal
+  - 3.6. Recomendação japonesa pra o projeto de largura do canal
+- 4. Regras do emprego da folga dinâmica abaixo da quilha no Brasil
+  - 4.1. Norma da Autoridade Marítima para a folga dinâmica abaixo da quilha
+- 5. Fatores Humanos
+  - 5.1. Diretrizes recomendadas pela IMO para a fadiga no trabalho marítimo
+    - 5.1.1. Circular do comitê de segurança da IMO sobre a fadiga no trabalho marítimo
+  - 5.2. Fatores humanos durante a manobra do navio
+    - 5.2.1. Gerenciamento do risco de fadiga
+    - 5.2.2. Gerenciamento de emoções na manobra
+    - 5.2.3. Gerenciando a pressão na manobra
+    - 5.2.4. Gerenciando o uso de novas tecnologias e distrações
+    - 5.2.5. Gerenciamento da conduta profissional
+  - 5.3. Declaração Universal dos Direitos Humanos – ONU
+- 6. Meio Ambiente
+  - 6.1. Convenções, Regras e Instrumentos utilizados para prevenção da poluição por navios e para a preservação do meio ambiente
+- 7. Economia Marítima e Amazônia Azul
+  - 7.1. Introdução ao Transporte Marítimo
+    - 7.1.1. Transporte marítimo e economia global
+    - 7.1.2. A organização do mercado marítimo
+  - 7.2. Economia do mercado marítimo
+    - 7.2.1. Ciclos do mercado marítimo
+    - 7.2.2. Oferta, demanda e taxas de frete
+    - 7.2.3. Os quatro mercados do transporte marítimo
+  - 7.3. A economia das companhias de navegação
+    - 7.3.1. Custos, receitas e fluxo de caixa
+    - 7.3.2. Financiamento de navios e de companhias de navegação
+    - 7.2.3. Risco, retorno e economia das companhias de navegação
+  - 7.4. Comércio marítimo e sistemas de transporte
+    - 7.4.1. A geografia do comércio marítimo
+    - 7.4.2. Os princípios do comércio marítimo
+    - 7.4.3. O transporte de cargas a granel
+    - 7.4.4. O transporte de cargas especializadas
+    - 7.4.5. O transporte de carga geral
+  - 7.5. A frota mercante e a oferta de transporte
+    - 7.5.1. Os navios que realizam o transporte
+    - 7.5.2. A economia das indústrias de construção naval e demolição de navios
+    - 7.5.3. A regulamentação da Indústria marítima
+  - 7.6. Previsões e planejamento
+    - 7.6.1. Previsões e pesquisas no mercado marítimo
+- 8. Direito processual marítimo
+  - 8.1. Processos de competência da Autoridade Marítima Brasileira
+  - 8.2. A Corte Marítima Brasileira
+  - 8.3. A Procuradoria Especial da Marinha
+  - 8.4. Acidentes de Navegação
+  - 8.5. Fatos de Navegação
+  - 8.6. Inquérito Marítimo e Investigação de Segurança
+  - 8.7. Processos de competência do Tribunal Marítimo
+  - 8.8. Recursos, penalidades e execução na Corte Marítima
+  - 8.9. Processo de registro de competência no Tribunal Marítimo
+  - 8.10. Repercussões das decisões do Tribunal Marítimo no Poder Judiciário
+
+## Observações do anexo
+
+- 1. O Conteúdo Programático constante neste anexo possui o fim de servir como referência básica para a orientação dos candidatos.
+- 2. O Edital do Processo Seletivo a que se referir definirá expressamente todo o Conteúdo Programático do respectivo certame.
+- 3. Os tópicos citados neste anexo não esgotam os assuntos que poderão ser abordados por ocasião de um PSCPP.
