@@ -30,6 +30,7 @@ struct ClientDetailView: View {
     @EnvironmentObject private var store: AppStore
     let client: Person
     @State private var showingPrescribe = false
+    @State private var showingGenerate = false
 
     var body: some View {
         List {
@@ -76,11 +77,27 @@ struct ClientDetailView: View {
         .navigationTitle(client.name)
         .toolbar {
             ToolbarItem(placement: .topBarTrailing) {
-                Button { showingPrescribe = true } label: { Image(systemName: "plus") }
+                Menu {
+                    Button {
+                        showingGenerate = true
+                    } label: {
+                        Label("Gerar com IA", systemImage: "wand.and.stars")
+                    }
+                    Button {
+                        showingPrescribe = true
+                    } label: {
+                        Label("Prescrever manualmente", systemImage: "square.and.pencil")
+                    }
+                } label: {
+                    Image(systemName: "plus")
+                }
             }
         }
         .sheet(isPresented: $showingPrescribe) {
             PrescribeWorkoutView(client: client)
+        }
+        .sheet(isPresented: $showingGenerate) {
+            GenerateWorkoutView(client: client, assessment: store.latestAssessment(for: client))
         }
     }
 }

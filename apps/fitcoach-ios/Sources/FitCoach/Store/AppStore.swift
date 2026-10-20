@@ -74,6 +74,21 @@ final class AppStore: ObservableObject {
         }
     }
 
+    // MARK: - AI workout generator
+
+    /// Produce a draft training plan for a client from the coach's request.
+    ///
+    /// This is the seam where a real model/backend call goes: send the client's
+    /// assessment plus the request, receive the workouts. Today it runs a local
+    /// rule-based engine (`WorkoutGenerator`) so the feature works end to end
+    /// with no backend — swap this body for a network/LLM call without touching
+    /// the views. The returned workouts are *drafts*: the professional reviews
+    /// and trims them, then saves the ones they want via `addWorkout`.
+    func generateWorkoutPlan(for client: Person, request: WorkoutPlanRequest) async -> [Workout] {
+        let generator = WorkoutGenerator(library: exercises, clientID: client.id, request: request)
+        return generator.makePlan()
+    }
+
     // MARK: - Mutations (client)
 
     /// Record per-set feedback. Because the store is shared, the professional
