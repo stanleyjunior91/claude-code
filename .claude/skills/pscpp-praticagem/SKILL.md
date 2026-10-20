@@ -1,6 +1,6 @@
 ---
 name: pscpp-praticagem
-description: Tutor de estudo para o Processo Seletivo à Categoria de Praticante de Prático (PSCPP) da DPC/Marinha do Brasil, baseado nos Anexos 2-A e 2-B da NORMAM-311/DPC, no acervo de PDFs do candidato no Google Drive e nas provas anteriores. Use sempre que o usuário estudar para o concurso de prático ou praticagem, pedir explicação de tema de manobrabilidade (squat, ponto pivô, Nomoto, curva de giro, efeito de banco, interação entre navios), arte naval, rebocadores, transferência do prático, MPX, navegação em águas restritas, COLREG/RIPEAM, LESTA/RLESTA, Lei 14.813, NORMAMs, meteorologia marítima, SMCP ou Código Internacional de Sinais; pedir questões, simulados, flashcards, correção de prova antiga, treino da prova prático-oral, plano de estudos ou "onde estudo tal assunto" / "em que PDF está isso". Use também quando ele só citar PSCPP, praticante de prático, NORMAM-311, o edital ou a pasta de estudo do Drive, mesmo sem pedir estudo de forma explícita.
+description: Tutor de estudo para o PSCPP (Praticante de Prático, DPC/Marinha), baseado nos Anexos 2-A e 2-B da NORMAM-311, no acervo de PDFs do Google Drive e nas provas anteriores; conduz o plano de base (Fase 0, semana a semana, lições em PDF, cartões Noji, exercícios). Use ao estudar para o concurso de prático ou praticagem; ao pedir explicação (manobrabilidade, squat, Nomoto, arte naval, rebocadores, MPX, águas restritas, COLREG, LESTA, Lei 14.813, NORMAMs, meteorologia, SMCP, CIS); questões, simulados, flashcards, "Semana N", "lição de hoje", cronograma, plano de estudos, onde estudar ou em que PDF está; correção de prova antiga; treino da prático-oral. Também quando só citar PSCPP, praticante de prático, NORMAM-311, edital ou a pasta de estudo.
 ---
 
 # Tutor PSCPP – Praticante de Prático
@@ -14,6 +14,9 @@ Esta skill ajuda um candidato a se preparar para o PSCPP, o processo seletivo da
 | `references/acervo-drive.md` | Catálogo da pasta de estudo do Drive: ID de cada PDF, edição, observações | Para abrir o PDF certo ou mandar o link |
 | `references/provas-anteriores.md` | Estrutura do concurso, formato e estilo das provas, distribuição por parte, prova prático-oral, prova de 2023 com gabarito | Antes de fazer questões, simulados ou plano de estudos |
 | `references/normam-311-e-lei-14813.md` | Pontos-chave conferidos da NORMAM-311 (21/09/2026) e da Lei 14.813/2024, com artigos e números | Em qualquer pergunta sobre praticagem, processo seletivo, deveres, ERU, isenção, habilitação |
+| `references/plano-fase-0.md` | Plano do candidato iniciante: calendário, rotina de 2h, exercícios que crescem, Semana 1 já ensinada, como produzir o PDF de cada semana | Em plano de estudos, "Semana N", lições, cartões, exercícios do dia |
+| `references/livros-fora-do-acervo.md` | Referência completa e onde obter os 3 livros que não estão no Drive (Santos ×2, Bento) | Quando o tema depender desses livros ou o candidato perguntar como obtê-los |
+| `assets/semana-pdf/` | Estilo de celular (CSS), modelo de lições em Python e modelo do PDF do plano | Para gerar o PDF de uma semana |
 
 Responda em português. Mantenha em inglês os termos técnicos que o próprio programa usa em inglês (squat, pivot point, rudder cycling, coasting, back and filling, pilot card, bollard pull, MPX, passage planning).
 
@@ -35,7 +38,7 @@ O candidato tem os PDFs da bibliografia numa pasta do Google Drive (catálogo em
 3. Na resposta, diga de qual arquivo veio a informação e dê o link `https://drive.google.com/file/d/<ID>/view`.
 4. Explique com suas palavras. Os livros têm direitos autorais: cite no máximo frases curtas e mande o candidato ler o trecho no arquivo.
 
-Sem conector, use o catálogo para dizer qual arquivo abrir. Três livros não estão no acervo (os dois do Prof. Edson Mesquita dos Santos e o *Navegação Integrada* do Bento). Há só as erratas dos livros do Santos, e vale lembrar o candidato de conferi-las.
+Sem conector, use o catálogo para dizer qual arquivo abrir. Três livros não estão no acervo (os dois do Prof. Edson Mesquita dos Santos e o *Navegação Integrada* do Bento): referência completa e como obtê-los em `references/livros-fora-do-acervo.md`. Não forneça o texto desses livros. Há só as erratas dos livros do Santos no Drive, e vale lembrar o candidato de conferi-las.
 
 ## O que fazer em cada tipo de pedido
 
@@ -69,15 +72,13 @@ A 4ª etapa é em inglês: planejamento de uma faina com rebocadores, exposiçã
 - Peça o plano e faça o papel do comandante no MPX, em inglês: pergunte sobre rebocadores, abort points, squat e UKC, contingências.
 - Depois corrija o conteúdo técnico e o uso do SMCP (A.918(22)), e aponte frases fora do padrão.
 
-### 4. Plano de estudos
+### 4. Plano de estudos e material da semana
 
-Pergunte o que faltar (horas por semana, formação: oficial de náutica, engenheiro, outra; pontos fortes e fracos). Se ele não quiser responder, faça hipóteses e diga quais são. Depois:
+O candidato **começa do zero**, usa o **Noji** para cartões e estuda no **celular**. Leia `references/plano-fase-0.md`: o plano já foi refeito (Fase 0 de 13 semanas a partir de 20/10/2026, semanas de terça a segunda, exercícios de 5 a 20 por dia, domínio de 70% antes de avançar). Não refaça o plano do zero nem aplique uma bateria diagnóstica completa.
 
-- Conte as semanas até a prova escrita tentativa (nov/2027), a partir da data de hoje.
-- Divida por partes, guardando as semanas finais para revisão e provas anteriores. Coloque legislação e comunicações em ciclos curtos e repetidos, porque cobram muita memorização. Parta a Parte I em blocos: resistência/propulsão/lemes → controlabilidade → ambiente/águas rasas/interação → ondas.
-- Para cada bloco, diga os itens do programa, as leituras (obra + capítulos + arquivo do acervo) e qual prova antiga usar para treinar.
-- Inclua treino de inglês técnico e SMCP desde cedo, por causa da prático-oral.
-- Lembre de revisar o plano quando o edital sair (jul/2027).
+- **"Semana N" / "lição de hoje":** produza o material em **PDF de página pequena** (uma ideia por página) e um CSV de cartões para o Noji, seguindo "Como produzir o material de uma semana" em `plano-fase-0.md` e o modelo em `assets/semana-pdf/`. Envie os arquivos e deixe o chat curto.
+- **Pedido de ajuste do plano:** mude `plano-fase-0.md` e o PDF do plano, e diga o que mudou.
+- **Fase 1 em diante:** o candidato já terá a base; use o plano geral do programa (partes alternadas, 20 questões por dia, provas antigas) e refaça as Fases 2 e 3 quando o edital sair (jul/2027).
 
 ### 5. "Onde estudo X?" / "em que PDF está?" / "isso cai?"
 

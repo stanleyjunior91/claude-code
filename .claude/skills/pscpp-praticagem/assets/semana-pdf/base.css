@@ -1,0 +1,45 @@
+@page { size: 90mm 160mm; margin: 5.5mm 5.5mm 6.5mm 5.5mm; }
+* { box-sizing: border-box; }
+html { font-family: "DejaVu Sans", "Liberation Sans", Arial, sans-serif; font-size: 9.2pt; line-height: 1.33; color: #1b2430; }
+body { margin: 0; }
+h1 { font-size: 16pt; line-height: 1.15; margin: 0 0 3mm; color: #12355b; }
+h2 { font-size: 11.5pt; line-height: 1.2; margin: 0 0 2.5mm; color: #12355b; }
+h3 { font-size: 9.6pt; margin: 2.6mm 0 1.2mm; color: #0b6e6e; }
+p { margin: 0 0 2.2mm; }
+ul, ol { margin: 0 0 2.5mm; padding-left: 5mm; }
+li { margin-bottom: 1.2mm; }
+.pg { page-break-before: always; }
+.first { page-break-before: auto; }
+.tag { display: inline-block; font-size: 7.5pt; letter-spacing: .04em; text-transform: uppercase; background: #12355b; color: #fff; padding: 0.6mm 2mm; border-radius: 1.2mm; margin-bottom: 2mm; }
+.meta { font-size: 7.3pt; color: #4a5a6a; border-top: .3mm solid #c8d3df; border-bottom: .3mm solid #c8d3df; padding: 1.2mm 0; margin: 0 0 3mm; }
+.box { border-left: 1.2mm solid #0b6e6e; background: #eaf5f5; padding: 1.6mm 2.2mm; margin: 2mm 0; border-radius: 0 1.5mm 1.5mm 0; }
+.warn { border-left-color: #b45309; background: #fdf3e3; }
+.key { border-left-color: #12355b; background: #e9eff7; }
+.box p:last-child, .box ul:last-child { margin-bottom: 0; }
+.small { font-size: 8.5pt; }
+.tiny { font-size: 7.5pt; color: #4a5a6a; }
+table { border-collapse: collapse; width: 100%; font-size: 7.9pt; line-height: 1.27; margin: 1.2mm 0 2.4mm; }
+th { background: #12355b; color: #fff; text-align: left; padding: 1.2mm 1.5mm; font-weight: 600; }
+td { border-bottom: .25mm solid #c8d3df; padding: 0.9mm 1.3mm; vertical-align: top; }
+tr { page-break-inside: avoid; }
+.q { margin: 0 0 2.4mm; page-break-inside: avoid; }
+.q .t { font-weight: 600; margin-bottom: .8mm; }
+.q .o { padding-left: 3.5mm; text-indent: -3.5mm; margin: 0; font-size: 8.3pt; line-height: 1.25; }
+.cards td:first-child { width: 38%; font-weight: 600; }
+svg { width: 100%; height: auto; max-height: 62mm; display: block; margin: 0.5mm auto 1.5mm; }
+.cover { text-align: left; padding-top: 14mm; }
+.cover h1 { font-size: 22pt; }
+.big { font-size: 12pt; color: #0b6e6e; font-weight: 600; margin-bottom: 6mm; }
+.chk li { list-style: none; margin-left: -4mm; }
+a { color: #0b6e6e; }
+.mono { font-family: "DejaVu Sans Mono", monospace; font-size: 8pt; }
+
+.keep { break-inside: avoid; }
+h2, h3 { break-after: avoid; }
+.q { margin: 0 0 1.7mm; }
+.q .t { font-size: 8.6pt; margin-bottom: .5mm; line-height: 1.25; }
+.q .o { font-size: 7.9pt; line-height: 1.2; }
+.q .o { line-height: 1.17; }
+.q { margin-bottom: 1.5mm; }
+.box { break-inside: avoid; }
+svg { max-height: 56mm; }

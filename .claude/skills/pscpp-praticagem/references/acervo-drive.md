@@ -208,7 +208,7 @@ As subpastas "PSCPP 20xx – Notícias e Convocações" têm editais de convoca�
 
 ## Itens da bibliografia sem PDF no acervo
 
-- Santos, *A manobrabilidade do navio no século 21* (I.8) e *Princípios de hidrodinâmica e ação das ondas…* (I.9, V.4): à venda pela Praticagem do Brasil; o acervo só tem as erratas.
-- Bento, *Navegação Integrada* (III.5): e-book à venda em e-nav.net.
+- Santos, *A manobrabilidade do navio no século 21* (I.8) e *Princípios de hidrodinâmica e ação das ondas…* (I.9, V.4): o acervo só tem as erratas; compra por e-mail com o Instituto Praticagem do Brasil.
+- Bento, *Navegação Integrada* (III.5): e-book vendido em e-nav.net.
 
-Quando o tema depender desses livros, explique pelo seu conhecimento, cite o capítulo indicado no Anexo 2-B e lembre o candidato de conferir as erratas.
+Referência completa, edição nova (2ª ed. dos livros do Santos, 06/2026) e como obter cada um: `livros-fora-do-acervo.md`. Quando o tema depender desses livros, explique pelo seu conhecimento, diga que não conferiu no livro, cite o capítulo indicado no Anexo 2-B e lembre o candidato de conferir as erratas.
