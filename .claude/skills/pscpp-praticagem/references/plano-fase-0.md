@@ -108,6 +108,18 @@ Aula 0 (o que é um prático) e 5 lições. Mantenha a mesma terminologia nas se
 
 **Aviso:** o conteúdo da Semana 1 foi escrito a partir de conhecimento geral de arte naval, **sem conferir no texto da Arte Naval** (PDF muito grande para o conector). Ao fazer a revisão de uma semana, se possível confira as definições em Arte Naval V1 cap. 1–2 e corrija o que divergir.
 
+## O que já foi ensinado na Semana 2 ("Flutuar e não virar")
+
+Mesma terminologia nas semanas seguintes. A lição de estabilidade (dias 4 e 5) foi conferida com o cap. 2 de Hensen e van der Laan (*Estabilidade dos rebocadores*, 1ª ed., 2022); o resto, a partir de conhecimento geral (Arte Naval V1 cap. 2 não foi conferida).
+
+| Dia | Tema | Pontos centrais |
+|---|---|---|
+| 1 | Peso, empuxo, deslocamento | Arquimedes: empuxo = peso do líquido deslocado; Δ = ρ × ∇ (salgada ≈ 1,025 t/m³, doce = 1,000); deslocamento leve e carregado; porte bruto (DWT) = carregado − leve; exemplo ∇ = 42 000 m³ → 43 050 t |
+| 2 | Tonelagem | arqueação bruta (AB/GT) e líquida (AL/NT) são volumes, sem unidade; AB = K1 × V com K1 = 0,2 + 0,02·log10(V) (Convenção de 1969); Lei 14.813, art. 13, § 6º: praticagem obrigatória com AB superior a 500; deslocamento e porte bruto são pesos (t) |
+| 3 | Flutuabilidade e TPC | reserva de flutuabilidade = volume estanque acima da linha d'água; marca de borda-livre = limite de carregamento; TPC = ρ × Aw ÷ 100; variação do calado ≈ peso ÷ TPC |
+| 4 | Estabilidade I | K, G, B (centro de carena; o livro diz "centro de flutuação, COB"), M (metacentro inicial), GM = KM − KG, GZ ≈ GM × sen(banda) (braço de endireitamento); GM > 0 estável; GM só vale para pequenos ângulos; curva de estabilidade e ângulo de alagamento; GM grande = balanço brusco, GM pequeno = balanço lento |
+| 5 | O que mexe na estabilidade | G sobe → GM diminui (carga ou água no convés, gelo, tanques vazios no fundo); lastro baixo aumenta o GM; superfície livre reduz o GM efetivo (cresce com o cubo da largura do tanque; tanque cheio ou vazio não tem); banda temporária (vento, guinada para fora da curva, cabo de reboque) x permanente; emborcamento (girting) de rebocador |
+
 ## Como produzir o material de uma semana ("Semana N")
 
 1. Releia este arquivo, os itens da semana em `conteudo-programatico.md` e o capítulo indicado no acervo.
